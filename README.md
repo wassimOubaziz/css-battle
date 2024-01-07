@@ -10,7 +10,7 @@
 
 ## 🖥️ Result
 
-![CSS Battle Result](./path/to/screenshot.png)
+![CSS Battle Result](https://wassimoubaziz.github.io/css-battle/)
 
 ## 🎯 Objective
 
